@@ -2,8 +2,6 @@
 
 ![Banner](banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=ML+Engineer+%26+AI+Startup+Founder+%F0%9F%90%BE;Computer+Vision+%7C+FastAPI+%7C+AWS+%7C+PyTorch;Building+AI-Powered+Pet+Grooming+System;Published+Researcher+%40+ICDLAIR+2024)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -22,30 +20,85 @@ contact     : nmude@sfc.edu
 
 ---
 
-## 🚀 Featured Projects
+> tech_stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [🐾 AI Pet Grooming System](https://github.com/mudenithinnaik/ai-pet-grooming-system) | World's first AI-automated grooming booth — CNN detects dog size & coat, auto-configures grooming | `Python` `CNN` `FastAPI` `AWS` |
-| 🌿 Potato Disease Classifier | Multi-class CNN achieving **98.9% accuracy** | `Python` `TensorFlow` `OpenCV` |
-| 🐶 Smart Pet Health Monitor | Computer vision detecting pet skin conditions with real-time alerts | `Python` `Computer Vision` `Cloud APIs` |
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,kubernetes,aws,azure&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,postgresql,js,html,raspberrypi&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+> featured_projects
 
-**Languages**
+| Project | Description | Stack |
+|---|---|---|
+| [🐾 AI Pet Grooming System](https://github.com/mudenithinnaik/ai-pet-grooming-system) | World's first AI-automated grooming booth — CNN detects dog size & coat, auto-configures wash temp, pressure & drying | `Python` `CNN` `FastAPI` `AWS` `Raspberry Pi` |
+| 🌿 Potato Disease Classifier | Multi-class CNN achieving **98.9% accuracy** — Early Blight, Late Blight & Healthy | `Python` `TensorFlow` `CNNs` `OpenCV` |
+| 🐶 Smart Pet Health Monitor | Computer vision detecting pet skin conditions with real-time health alerts & risk scores | `Python` `Computer Vision` `Cloud APIs` |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+---
 
-**AI & Machine Learning**
+> experience
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**🏦 Data Analyst Intern — Indian School of Business (ISB)** *(Jul–Sep 2023)*
+- Improved reporting accuracy by **30%**, reduced reporting time by **40%**
+- Built dashboards with Tableau & Python, increased forecast accuracy **25%**
+
+**🤖 ML Intern — YHILLS (IIT Hyderabad)** *(Jul–Nov 2022)*
+- Achieved **92% model accuracy** on real-world datasets
+- Reduced prediction error by **20%** via feature engineering & hyperparameter tuning
+
+---
+
+> certifications
+
+| | Credential |
+|---|---|
+| 📄 | **Publication:** Enhancing Tea Leaf Disease Classification — ICDLAIR 2024 |
+| 🤗 | Hugging Face — NLP & Transformers |
+| ⚡ | FastAPI for Production ML Systems |
+| ☁️ | AWS Skill Builder — Machine Learning Foundations |
+
+---
+
+> contribution_graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudenithinnaik&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+> connect
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mudenithin)&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/mudenithinnaik)
+
+📧 [nmude@sfc.edu](mailto:nmude@sfc.edu)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mudenithinnaik&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best time to build your dream is now."* 🐾
+
+**⭐ Star my repos if you believe in the vision!**
+
+</div>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Cloud & Deployment**
