@@ -94,8 +94,6 @@ contact     : nmude@sfc.edu
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudenithinnaik)
 
 </div>
-.......................................................................................................................................
-
 <div align="center">
 
 *"The best time to build your dream is now."* 🐾
