@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=ML+Engineer+%26+AI+Startup+Founder+%F0%9F%90%BE;Computer+Vision+%7C+FastAPI+%7C+AWS+%7C+PyTorch;Building+AI-Powered+Pet+Grooming+System;Published+Researcher+%40+ICDLAIR+2024)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ```python
