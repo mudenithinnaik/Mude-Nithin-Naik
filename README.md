@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+![Banner](banner.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=ML+Engineer+%26+AI+Startup+Founder+%F0%9F%90%BE;Computer+Vision+%7C+FastAPI+%7C+AWS+%7C+PyTorch;Building+AI-Powered+Pet+Grooming+System+%F0%9F%90%95;Published+Researcher+%40+ICDLAIR+2024)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ```python
